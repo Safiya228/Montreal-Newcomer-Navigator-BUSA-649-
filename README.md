@@ -16,8 +16,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app opens automatically at `http://localhost:8501`. Make sure these files stay
-in the same folder as `app.py`:
+The app opens automatically at `https://montreal-newcomer-navigator.streamlit.app/`. 
+
+Make sure these files stay in the same folder as `app.py`:
 
 - `Montreal_Newcomer_Navigator_Scored.csv`
 - `Neighborhood_Campus_Distances.csv`
