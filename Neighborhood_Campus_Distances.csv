@@ -1,0 +1,205 @@
+Neighborhood,Campus,Distance_km,Campus_Access_Score_0_100
+Montréal-Ouest,McGill Downtown Campus,8.06,78.6
+Montréal-Ouest,Concordia SGW Campus,7.38,81.8
+Montréal-Ouest,UQAM,9.81,71.7
+Montréal-Ouest,Université de Montréal,6.16,82.6
+Montréal-Ouest,Concordia Loyola Campus,0.91,100.0
+Montréal-Ouest,McGill Macdonald Campus,23.39,46.7
+Westmount,McGill Downtown Campus,2.84,96.3
+Westmount,Concordia SGW Campus,2.16,100.0
+Westmount,UQAM,4.59,88.0
+Westmount,Université de Montréal,2.29,97.1
+Westmount,Concordia Loyola Campus,4.32,86.1
+Westmount,McGill Macdonald Campus,27.98,35.3
+Ville-Marie,McGill Downtown Campus,1.76,100.0
+Ville-Marie,Concordia SGW Campus,2.26,99.7
+Ville-Marie,UQAM,0.74,100.0
+Ville-Marie,Université de Montréal,4.76,87.9
+Ville-Marie,Concordia Loyola Campus,8.72,68.2
+Ville-Marie,McGill Macdonald Campus,32.18,24.8
+Le Plateau-Mont-Royal,McGill Downtown Campus,2.38,97.9
+Le Plateau-Mont-Royal,Concordia SGW Campus,3.21,96.3
+Le Plateau-Mont-Royal,UQAM,2.01,96.0
+Le Plateau-Mont-Royal,Université de Montréal,3.76,91.6
+Le Plateau-Mont-Royal,Concordia Loyola Campus,8.86,67.6
+Le Plateau-Mont-Royal,McGill Macdonald Campus,31.09,27.5
+Côte-des-Neiges-Notre-Dame-de-Grâce,McGill Downtown Campus,4.79,89.7
+Côte-des-Neiges-Notre-Dame-de-Grâce,Concordia SGW Campus,4.35,92.4
+Côte-des-Neiges-Notre-Dame-de-Grâce,UQAM,6.52,81.9
+Côte-des-Neiges-Notre-Dame-de-Grâce,Université de Montréal,2.36,96.9
+Côte-des-Neiges-Notre-Dame-de-Grâce,Concordia Loyola Campus,3.03,91.4
+Côte-des-Neiges-Notre-Dame-de-Grâce,McGill Macdonald Campus,25.67,41.0
+Outremont,McGill Downtown Campus,2.74,96.7
+Outremont,Concordia SGW Campus,3.09,96.8
+Outremont,UQAM,3.79,90.5
+Outremont,Université de Montréal,1.52,100.0
+Outremont,Concordia Loyola Campus,6.84,75.8
+Outremont,McGill Macdonald Campus,28.62,33.7
+Mont-Royal,McGill Downtown Campus,5.82,86.2
+Mont-Royal,Concordia SGW Campus,5.83,87.2
+Mont-Royal,UQAM,7.15,80.0
+Mont-Royal,Université de Montréal,2.88,94.9
+Mont-Royal,Concordia Loyola Campus,5.79,80.1
+Mont-Royal,McGill Macdonald Campus,25.33,41.9
+Rosemont-La Petite-Patrie,McGill Downtown Campus,5.4,87.6
+Rosemont-La Petite-Patrie,Concordia SGW Campus,6.23,85.8
+Rosemont-La Petite-Patrie,UQAM,4.53,88.2
+Rosemont-La Petite-Patrie,Université de Montréal,6.24,82.3
+Rosemont-La Petite-Patrie,Concordia Loyola Campus,11.56,56.6
+Rosemont-La Petite-Patrie,McGill Macdonald Campus,32.5,24.0
+Le Sud-Ouest,McGill Downtown Campus,3.79,93.1
+Le Sud-Ouest,Concordia SGW Campus,2.96,97.2
+Le Sud-Ouest,UQAM,5.11,86.3
+Le Sud-Ouest,Université de Montréal,4.71,88.0
+Le Sud-Ouest,Concordia Loyola Campus,5.16,82.7
+Le Sud-Ouest,McGill Macdonald Campus,29.33,31.9
+Villeray-Saint-Michel-Parc-Extension,McGill Downtown Campus,6.59,83.6
+Villeray-Saint-Michel-Parc-Extension,Concordia SGW Campus,7.26,82.2
+Villeray-Saint-Michel-Parc-Extension,UQAM,6.51,82.0
+Villeray-Saint-Michel-Parc-Extension,Université de Montréal,5.88,83.7
+Villeray-Saint-Michel-Parc-Extension,Concordia Loyola Campus,10.95,59.1
+Villeray-Saint-Michel-Parc-Extension,McGill Macdonald Campus,29.99,30.3
+Hampstead,McGill Downtown Campus,5.95,85.7
+Hampstead,Concordia SGW Campus,5.5,88.4
+Hampstead,UQAM,7.67,78.3
+Hampstead,Université de Montréal,3.37,93.1
+Hampstead,Concordia Loyola Campus,2.55,93.3
+Hampstead,McGill Macdonald Campus,24.51,43.9
+Côte-Saint-Luc,McGill Downtown Campus,8.08,78.5
+Côte-Saint-Luc,Concordia SGW Campus,7.58,81.1
+Côte-Saint-Luc,UQAM,9.81,71.7
+Côte-Saint-Luc,Université de Montréal,5.52,85.0
+Côte-Saint-Luc,Concordia Loyola Campus,2.39,94.0
+Côte-Saint-Luc,McGill Macdonald Campus,22.48,49.0
+Sainte-Anne-de-Bellevue,McGill Downtown Campus,29.21,6.6
+Sainte-Anne-de-Bellevue,Concordia SGW Campus,28.84,7.0
+Sainte-Anne-de-Bellevue,UQAM,30.84,5.9
+Sainte-Anne-de-Bellevue,Université de Montréal,26.28,7.2
+Sainte-Anne-de-Bellevue,Concordia Loyola Campus,23.2,9.2
+Sainte-Anne-de-Bellevue,McGill Macdonald Campus,2.01,100.0
+Baie-D'Urfé,McGill Downtown Campus,28.17,10.2
+Baie-D'Urfé,Concordia SGW Campus,27.76,10.8
+Baie-D'Urfé,UQAM,29.83,9.1
+Baie-D'Urfé,Université de Montréal,25.3,10.8
+Baie-D'Urfé,Concordia Loyola Campus,21.94,14.3
+Baie-D'Urfé,McGill Macdonald Campus,2.25,99.4
+Mercier-Hochelaga-Maisonneuve,McGill Downtown Campus,8.6,76.7
+Mercier-Hochelaga-Maisonneuve,Concordia SGW Campus,9.42,74.7
+Mercier-Hochelaga-Maisonneuve,UQAM,7.05,80.3
+Mercier-Hochelaga-Maisonneuve,Université de Montréal,10.32,67.0
+Mercier-Hochelaga-Maisonneuve,Concordia Loyola Campus,15.49,40.6
+Mercier-Hochelaga-Maisonneuve,McGill Macdonald Campus,36.89,13.1
+Ahuntsic-Cartierville,McGill Downtown Campus,9.12,75.0
+Ahuntsic-Cartierville,Concordia SGW Campus,9.42,74.7
+Ahuntsic-Cartierville,UQAM,9.89,71.4
+Ahuntsic-Cartierville,Université de Montréal,6.74,80.4
+Ahuntsic-Cartierville,Concordia Loyola Campus,9.95,63.2
+Ahuntsic-Cartierville,McGill Macdonald Campus,25.35,41.8
+Lachine,McGill Downtown Campus,11.06,68.4
+Lachine,Concordia SGW Campus,10.46,71.1
+Lachine,UQAM,12.82,62.2
+Lachine,Université de Montréal,8.7,73.1
+Lachine,Concordia Loyola Campus,4.14,86.8
+Lachine,McGill Macdonald Campus,20.09,54.9
+LaSalle,McGill Downtown Campus,8.95,75.5
+LaSalle,Concordia SGW Campus,8.12,79.2
+LaSalle,UQAM,10.51,69.5
+LaSalle,Université de Montréal,8.28,74.7
+LaSalle,Concordia Loyola Campus,3.9,87.8
+LaSalle,McGill Macdonald Campus,25.7,41.0
+Verdun,McGill Downtown Campus,6.16,85.0
+Verdun,Concordia SGW Campus,5.42,88.6
+Verdun,UQAM,7.06,80.2
+Verdun,Université de Montréal,7.47,77.7
+Verdun,Concordia Loyola Campus,6.81,76.0
+Verdun,McGill Macdonald Campus,30.69,28.5
+Saint-Laurent,McGill Downtown Campus,10.6,69.9
+Saint-Laurent,Concordia SGW Campus,10.44,71.1
+Saint-Laurent,UQAM,12.05,64.7
+Saint-Laurent,Université de Montréal,7.58,77.3
+Saint-Laurent,Concordia Loyola Campus,7.17,74.5
+Saint-Laurent,McGill Macdonald Campus,20.5,53.9
+Senneville,McGill Downtown Campus,31.16,0.0
+Senneville,Concordia SGW Campus,30.85,0.0
+Senneville,UQAM,32.74,0.0
+Senneville,Université de Montréal,28.19,0.0
+Senneville,Concordia Loyola Campus,25.46,0.0
+Senneville,McGill Macdonald Campus,4.0,95.0
+Kirkland,McGill Downtown Campus,23.43,26.3
+Kirkland,Concordia SGW Campus,23.1,27.0
+Kirkland,UQAM,25.03,24.1
+Kirkland,Université de Montréal,20.47,28.9
+Kirkland,Concordia Loyola Campus,17.72,31.5
+Kirkland,McGill Macdonald Campus,7.48,86.4
+Saint-Léonard,McGill Downtown Campus,9.51,73.6
+Saint-Léonard,Concordia SGW Campus,10.31,71.6
+Saint-Léonard,UQAM,8.69,75.2
+Saint-Léonard,Université de Montréal,9.73,69.2
+Saint-Léonard,Concordia Loyola Campus,14.99,42.6
+Saint-Léonard,McGill Macdonald Campus,33.72,21.0
+Beaconsfield,McGill Downtown Campus,23.76,25.2
+Beaconsfield,Concordia SGW Campus,23.32,26.2
+Beaconsfield,UQAM,25.45,22.8
+Beaconsfield,Université de Montréal,20.94,27.2
+Beaconsfield,Concordia Loyola Campus,17.39,32.9
+Beaconsfield,McGill Macdonald Campus,6.79,88.1
+Montréal-Nord,McGill Downtown Campus,11.75,66.0
+Montréal-Nord,Concordia SGW Campus,12.49,64.0
+Montréal-Nord,UQAM,11.26,67.1
+Montréal-Nord,Université de Montréal,11.26,63.5
+Montréal-Nord,Concordia Loyola Campus,16.19,37.8
+Montréal-Nord,McGill Macdonald Campus,32.63,23.7
+Dorval,McGill Downtown Campus,14.79,55.7
+Dorval,Concordia SGW Campus,14.35,57.5
+Dorval,UQAM,16.48,50.8
+Dorval,Université de Montréal,11.99,60.7
+Dorval,Concordia Loyola Campus,8.65,68.5
+Dorval,McGill Macdonald Campus,15.67,66.0
+Anjou,McGill Downtown Campus,12.01,65.1
+Anjou,Concordia SGW Campus,12.85,62.7
+Anjou,UQAM,10.83,68.5
+Anjou,Université de Montréal,12.79,57.7
+Anjou,Concordia Loyola Campus,18.12,29.9
+Anjou,McGill Macdonald Campus,37.14,12.4
+Pierrefonds-Roxboro,McGill Downtown Campus,23.03,27.7
+Pierrefonds-Roxboro,Concordia SGW Campus,22.82,28.0
+Pierrefonds-Roxboro,UQAM,24.51,25.7
+Pierrefonds-Roxboro,Université de Montréal,20.02,30.6
+Pierrefonds-Roxboro,Concordia Loyola Campus,18.12,29.9
+Pierrefonds-Roxboro,McGill Macdonald Campus,9.82,80.5
+L'Île-Dorval,McGill Downtown Campus,15.14,54.5
+L'Île-Dorval,Concordia SGW Campus,14.6,56.6
+L'Île-Dorval,UQAM,16.89,49.5
+L'Île-Dorval,Université de Montréal,12.56,58.6
+L'Île-Dorval,Concordia Loyola Campus,8.4,69.5
+L'Île-Dorval,McGill Macdonald Campus,15.86,65.5
+Pointe-Claire,McGill Downtown Campus,19.22,40.6
+Pointe-Claire,Concordia SGW Campus,18.8,42.0
+Pointe-Claire,UQAM,20.89,37.0
+Pointe-Claire,Université de Montréal,16.36,44.4
+Pointe-Claire,Concordia Loyola Campus,13.08,50.4
+Pointe-Claire,McGill Macdonald Campus,11.21,77.1
+L'Île-Bizard-Sainte-Geneviève,McGill Downtown Campus,25.52,19.2
+L'Île-Bizard-Sainte-Geneviève,Concordia SGW Campus,25.36,19.1
+L'Île-Bizard-Sainte-Geneviève,UQAM,26.92,18.2
+L'Île-Bizard-Sainte-Geneviève,Université de Montréal,22.5,21.3
+L'Île-Bizard-Sainte-Geneviève,Concordia Loyola Campus,20.94,18.4
+L'Île-Bizard-Sainte-Geneviève,McGill Macdonald Campus,10.01,80.1
+Dollard-des-Ormeaux,McGill Downtown Campus,18.81,42.0
+Dollard-des-Ormeaux,Concordia SGW Campus,18.61,42.7
+Dollard-des-Ormeaux,UQAM,20.28,38.9
+Dollard-des-Ormeaux,Université de Montréal,15.79,46.5
+Dollard-des-Ormeaux,Concordia Loyola Campus,14.14,46.1
+Dollard-des-Ormeaux,McGill Macdonald Campus,13.13,72.3
+Montréal-Est,McGill Downtown Campus,14.34,57.2
+Montréal-Est,Concordia SGW Campus,15.18,54.6
+Montréal-Est,UQAM,12.89,62.0
+Montréal-Est,Université de Montréal,15.65,47.0
+Montréal-Est,Concordia Loyola Campus,20.96,18.3
+Montréal-Est,McGill Macdonald Campus,40.72,3.5
+Rivière-des-Prairies-Pointe-aux-Trembles,McGill Downtown Campus,17.38,46.9
+Rivière-des-Prairies-Pointe-aux-Trembles,Concordia SGW Campus,18.22,44.0
+Rivière-des-Prairies-Pointe-aux-Trembles,UQAM,16.03,52.2
+Rivière-des-Prairies-Pointe-aux-Trembles,Université de Montréal,18.36,36.9
+Rivière-des-Prairies-Pointe-aux-Trembles,Concordia Loyola Campus,23.68,7.3
+Rivière-des-Prairies-Pointe-aux-Trembles,McGill Macdonald Campus,42.13,0.0
